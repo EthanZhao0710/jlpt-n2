@@ -39,4 +39,3 @@ powershell -ExecutionPolicy Bypass -File .\materials\official_n2\download_offici
 2. 11月上旬：2012版作为第一次接近完整强度的官方诊断。
 3. 11月下旬：2018版Vol.2作为考前官方模拟。
 4. 做完只记录题号、题型、错因和能力缺口，不把整题复制进进度文件。
-
