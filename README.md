@@ -18,6 +18,8 @@
 - `CURRENT_STATE.md`：当前状态唯一权威来源。每次必读。
 - `REVIEW_QUEUE.md`：今天到期的间隔复测。
 - `JLPT_N2_MASTER.md`：完整知识地图和 94 天路线。按需读取，不必每次全读。
+- `N2_OFFICIAL_BLUEPRINT.md`：官方题型、量尺得分、真题使用和阶段检查点。
+- `materials/official_n2/`：官方资料来源与可重复下载工具；受版权保护的PDF／MP3只保存在Git忽略的本地目录。
 - `progress/`：每日详细日志。
 - `mistakes/ACTIVE_MISTAKES.md`：仍可能重复犯的错误。
 - `archive/`：已经解决的旧信息。
