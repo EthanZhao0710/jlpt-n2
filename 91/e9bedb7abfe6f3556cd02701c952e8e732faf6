@@ -1,0 +1,26 @@
+mistakes/ACTIVE_MISTAKES.md
+  s_8649a8eadb7119::t_d7a5d99c11b60b 6-14
+CURRENT_STATE.md
+  s_8649a8eadb7119::t_d7a5d99c11b60b 10,20,53,66-70,79
+REVIEW_QUEUE.md
+  s_8649a8eadb7119::t_47e282b3b36dde 10
+  s_8649a8eadb7119::t_d7a5d99c11b60b 7-9,16
+progress/2026-09-07.md
+  s_8649a8eadb7119::t_d7a5d99c11b60b 31-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "91e9bedb7abfe6f3556cd02701c952e8e732faf6",
+  "prompts": {},
+  "sessions": {
+    "s_8649a8eadb7119": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a07a89-4185-76b2-9da4-55c840be2413",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "zhaoyi13 <zhaoyi13@lenovo.com>"
+    }
+  }
+}
