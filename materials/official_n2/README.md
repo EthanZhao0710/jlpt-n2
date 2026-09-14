@@ -17,10 +17,10 @@
 在仓库根目录运行：
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File .\materials\official_n2\download_official_n2.ps1
+powershell -ExecutionPolicy Bypass -File .\materials\official_n2\download_official_n2.ps1 -Edition 2012
 ```
 
-脚本会下载：
+默认仅下载2012；可显式指定-Edition 2018或all。支持的文件：
 
 - 2012官方练习册N2：词汇、语法、阅读、听力题册、答案、答题纸、听力原文、Q1～Q5音频；
 - 2018官方练习册Vol.2 N2：同上。
@@ -33,9 +33,12 @@ powershell -ExecutionPolicy Bypass -File .\materials\official_n2\download_offici
 - 官方说明：2012版和2018版各自题量接近一次正式考试，题目选自2010年改版后实际使用过的试题。
 - 官方版权说明：https://www.jlpt.jp/e/samples/sampleindex.html#anchor03
 
-## 使用顺序
+## 使用顺序（2026-09-13路线v2）
 
-1. 9月：只用公开样题做题型侦察，不提前看这两套完整资料。
-2. 11月上旬：2012版作为第一次接近完整强度的官方诊断。
-3. 11月下旬：2018版Vol.2作为考前官方模拟。
-4. 做完只记录题号、题型、错因和能力缺口，不把整题复制进进度文件。
+1. 下次学习即用公开N2样题／2012卷分题训练，2012不再保留到11月。
+2. 做过的题登记N2_PRACTICE_LOG.md，之后只算复习，不算未见整套成绩。
+3. 2018版Vol.2保留到11月中下旬模拟，避免提前讲解答案。
+4. 用户未来提供材料核验来源、年份、音频和答案完整性后再使用；不批量下载，不等待材料才进入N2。
+5. 官方、回忆版、模拟题、原创题分清标签。只记录题号／错因／能力缺口，不把整题复制入Git。
+
+2026-09-13：2012共12文件已本地校验，见LOCAL_INVENTORY.md。官方网页的2012 N2Q2当前链接实际指向sample2017路径，脚本与该官网链接一致；不擅自替换来源。

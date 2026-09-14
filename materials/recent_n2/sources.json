@@ -1,0 +1,128 @@
+{
+  "checked_on": "2026-09-13",
+  "scope": "2023—2025三个完整年份六场；另列2026-07最新场次。2024—2026口径也可由目录筛出；2026-12尚未举行。",
+  "content_policy": "仓库只保存来源、核验笔记与训练安排；未复制未经授权的第三方整卷或音频。用户提供材料可本地导入核验。",
+  "sessions": [
+    {
+      "session": "2026-07",
+      "scope": "最新场次补充",
+      "publisher": "PassJapanese",
+      "url": "https://passjapanese.com/ja/blog/jlpt-n2-july-2026-answers",
+      "kind": "非官方参考答案",
+      "questions": "未取得完整题干",
+      "answers": "页面可见，未与原卷核对",
+      "audio": "页面链接自称复原音频，未验证",
+      "quality": "仅作线索；页面明确语法／阅读仅列答案编号，不是完整真题",
+      "checked_on": "2026-09-13",
+      "local_full_paper": false,
+      "ready_for_full_mock": false
+    },
+    {
+      "session": "2025-12",
+      "scope": "最近三个完整年份",
+      "publisher": "MOJi",
+      "url": "https://m.mojidict.com/article/oneFMiIVJu",
+      "kind": "教师回忆版",
+      "questions": "答案及部分回顾入口，非完整题册",
+      "answers": "公开可读，需逐题核验",
+      "audio": "未取得原始音频",
+      "quality": "有分组标注题数与答案数不符的现象；不得自动批量导入答案",
+      "checked_on": "2026-09-13",
+      "local_full_paper": false,
+      "ready_for_full_mock": false
+    },
+    {
+      "session": "2025-07",
+      "scope": "最近三个完整年份",
+      "publisher": "MOJi",
+      "url": "https://m.mojidict.com/article/f13wS69rJR",
+      "kind": "教师回忆版",
+      "questions": "局部文字及答案，非完整题册",
+      "answers": "公开可读，存在排版／数量异常",
+      "audio": "未取得匹配音频",
+      "quality": "阅读某两题组出现多余字符，听力分组数量也需核对；先核题面与选项，不照抄答案串",
+      "checked_on": "2026-09-13",
+      "local_full_paper": false,
+      "ready_for_full_mock": false
+    },
+    {
+      "session": "2024-12",
+      "scope": "最近三个完整年份",
+      "publisher": "新干线日语",
+      "url": "https://xgxedu.com/html/xxzl/6362.html",
+      "kind": "机构回忆版题目与答案",
+      "questions": "页面列出多张题目图片，未逐页核完整性",
+      "answers": "页面有参考答案入口，未逐题核验",
+      "audio": "未取得匹配音频",
+      "quality": "机构自行标注回忆版；在线查看入口已核实，不宣称官方原卷或本地完整卷",
+      "checked_on": "2026-09-13",
+      "local_full_paper": false,
+      "ready_for_full_mock": false
+    },
+    {
+      "session": "2024-07",
+      "scope": "最近三个完整年份",
+      "publisher": "MOJi",
+      "url": "https://m.mojidict.com/article/O4spDvuDAz",
+      "kind": "回忆答案与考后词汇解析",
+      "questions": "搜索可读词单／答案段，直接正文有动态加载限制",
+      "answers": "部分可读，未逐题核验",
+      "audio": "未取得匹配音频",
+      "quality": "不是完整题册；可作词汇／考点线索，不能作独立整套测评",
+      "checked_on": "2026-09-13",
+      "local_full_paper": false,
+      "ready_for_full_mock": false
+    },
+    {
+      "session": "2023-12",
+      "scope": "最近三个完整年份",
+      "publisher": "第六时限",
+      "url": "https://www.diliushixian.com/information/4153.html",
+      "kind": "非官方参考答案",
+      "questions": "非完整题册",
+      "answers": "页面入口已核实",
+      "audio": "未取得匹配音频",
+      "quality": "仅答案参考，完整题干与版本配对仍缺",
+      "checked_on": "2026-09-13",
+      "local_full_paper": false,
+      "ready_for_full_mock": false
+    },
+    {
+      "session": "2023-07",
+      "scope": "最近三个完整年份",
+      "publisher": "第六时限",
+      "url": "https://www.diliushixian.com/information/3888.html",
+      "kind": "考生回忆答案",
+      "questions": "非完整题册",
+      "answers": "搜索正文可读；直接打开有失败",
+      "audio": "未取得匹配音频",
+      "quality": "正文明确根据考生回忆整理；站内题型介绍不作为官方标准",
+      "checked_on": "2026-09-13",
+      "local_full_paper": false,
+      "ready_for_full_mock": false
+    }
+  ],
+  "commercial_catalog": {
+    "url": "https://ggw.100xuexi.com/Tk/4933.html",
+    "publisher_claim": "河南电子音像出版社提供网络出版和使用服务；圣才提供技术支持",
+    "catalog_verified": true,
+    "listed_sessions": [
+      "2025-12",
+      "2025-07",
+      "2024-12",
+      "2024-07",
+      "2023-12",
+      "2023-07"
+    ],
+    "claim": "各套试题、详解及听力音频",
+    "access": "购买／登录，未购买；无法核验内容、具体授权与导出能力，不作已取得资源",
+    "price_verified": false
+  },
+  "official_fallback": {
+    "edition": "2012",
+    "source": "https://www.jlpt.jp/e/samples/sampleindex.html",
+    "path": "../official_n2/downloads/2012",
+    "files_expected": 12,
+    "description": "官方公开练习册真实试题选编，不属于最近三年；单独标注，不能冒充近年卷"
+  }
+}

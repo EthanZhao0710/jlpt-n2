@@ -1,6 +1,8 @@
 [CmdletBinding()]
 param(
-    [switch]$Force
+    [switch]$Force,
+    [ValidateSet("2012", "2018", "all")]
+    [string]$Edition = "2012"
 )
 
 $ErrorActionPreference = 'Stop'
@@ -33,6 +35,8 @@ $files = @(
     @{ Version = '2018'; Name = 'N2Q4.mp3';     Url = 'https://www.jlpt.jp/samples/sample2018/mp3/N2Q4.mp3' },
     @{ Version = '2018'; Name = 'N2Q5.mp3';     Url = 'https://www.jlpt.jp/samples/sample2018/mp3/N2Q5.mp3' }
 )
+
+if ($Edition -ne "all") { $files = @($files | Where-Object { $_.Version -eq $Edition }) }
 
 foreach ($file in $files) {
     $versionDir = Join-Path $downloadRoot $file.Version
