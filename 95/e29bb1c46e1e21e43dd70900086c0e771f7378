@@ -1,0 +1,28 @@
+materials/listening/README.md
+  s_210ac9dc498180::t_ab02d032bf3fc2 11-19
+progress/2026-09-14.md
+  s_210ac9dc498180::t_ab02d032bf3fc2 1-9
+CURRENT_STATE.md
+  s_210ac9dc498180::t_ab02d032bf3fc2 10,53-62,175-177
+  s_210ac9dc498180::t_d84972e5e617c7 34
+mistakes/ACTIVE_MISTAKES.md
+  s_210ac9dc498180::t_ab02d032bf3fc2 6-10
+REVIEW_QUEUE.md
+  s_210ac9dc498180::t_ab02d032bf3fc2 5-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "95e29bb1c46e1e21e43dd70900086c0e771f7378",
+  "prompts": {},
+  "sessions": {
+    "s_210ac9dc498180": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a09d92-751a-7372-b326-3c1f0578b68d",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zhaoyi13 <zhaoyi13@lenovo.com>"
+    }
+  }
+}
