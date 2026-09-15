@@ -50,6 +50,8 @@ def roles_for(path):
     name = path.name
     if path.suffix.lower() in ('.mp3', '.wav', '.m4a'):
         return ['audio']
+    if path.suffix.lower() in ('.mp4', '.mkv', '.avi'):
+        return ['video_unverified_not_counted_as_exam_audio']
     roles = []
     if '答题卡' in name or '答题纸' in name:
         return ['answer_sheet']
@@ -141,7 +143,13 @@ def main():
         items = [x for x in files if x['level'] == level]
         lines.append(f'|{level}|{len(items)}|{sum(x["bytes"] for x in items):,}|')
     lines += ['', '|等级／场次|文件数|题卷候选|答案／解析|音频|原文|用途|', '|---|---:|---:|---:|---:|---:|---|']
-    for (level, session), items in sorted(groups.items(), key=lambda kv: (kv[0][0], -int(re.sub(r'\D', '', kv[0][1]) or 0))):
+    def session_order(item):
+        level, session = item[0]
+        match = re.match(r'^(20\d{2})(?:-(07|12))?', session)
+        year, month = (int(match[1]), int(match[2] or 0)) if match else (0, 0)
+        return level, -year, -month, session
+
+    for (level, session), items in sorted(groups.items(), key=session_order):
         counts = collections.Counter(r for x in items for r in x['roles_inferred_from_name'])
         sessions.append(dict(level=level, session=session, file_count=len(items),
                              role_counts=dict(counts), paths=[x['path'] for x in items],

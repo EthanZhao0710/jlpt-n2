@@ -5,10 +5,12 @@ study_start: 2026-09-03
 current_level: "实际状态见CURRENT_STATE.md；勿据本知识地图判进度"
 primary_goal: "通过JLPT N2"
 strategy: "听力保底过单项线；语言知识与阅读拉总分"
-status: "路线v2 / 2026-09-13；每日状态见CURRENT_STATE.md"
+status: "路线v3 / 2026-09-16；每日状态见CURRENT_STATE.md"
 ---
 
 # JLPT N2 94天冲刺学习系统
+
+> 2026-09-16当前执行路线为ROUTE_V3_2026-09-16.md。最新N2（2026-07）优先，先核配套并铺垫带做；N3～N5定点补缺，N1仅归档。旧章节中的材料未取得、整卷不入Git、官方卷唯一优先、Day 10起点均为历史，本次指定用户题库已入Git LFS。当前状态与下一课只读CURRENT_STATE。知识模块分母不变，作为／として局部讲解不等于整簇完成。
 
 > 用途：知识地图与路线索引，不是每日状态。CURRENT_STATE.md是实际进度唯一权威；执行ROUTE_V2_2026-09-13.md，旧教学顺序不得覆盖v2。
 >

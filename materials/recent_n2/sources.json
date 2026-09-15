@@ -1,7 +1,7 @@
 {
   "checked_on": "2026-09-13",
   "scope": "2023—2025三个完整年份六场；另列2026-07最新场次。2024—2026口径也可由目录筛出；2026-12尚未举行。",
-  "content_policy": "仓库只保存来源、核验笔记与训练安排；未复制未经授权的第三方整卷或音频。用户提供材料可本地导入核验。",
+  "content_policy": "外部网页记录保留09-13历史边界；09-16用户明确提供并授权五个本地目录加入Git和推送，已用LFS保存原件。来源真实性及题目配套仍须核验，不把目录名当官方认证。",
   "sessions": [
     {
       "session": "2026-07",
@@ -124,5 +124,13 @@
     "path": "../official_n2/downloads/2012",
     "files_expected": 12,
     "description": "官方公开练习册真实试题选编，不属于最近三年；单独标注，不能冒充近年卷"
+  },
+  "historical_scope_note": "以下网页记录保留2026-09-13当时证据；本地题库2026-09-16已导入，以../past_papers/manifest.json及QA_NOTES.md为准，不据旧local_full_paper=false否定新原件。",
+  "local_import": {
+    "date": "2026-09-16",
+    "manifest": "../past_papers/manifest.json",
+    "qa": "../past_papers/QA_NOTES.md",
+    "latest_priority": "2026-07",
+    "full_mock_verified": false
   }
 }

@@ -10346,7 +10346,7 @@
       "bytes": 13433018,
       "sha256": "42eb3bff2c873504c2f2c9ac2e9c77de3285f46e11dbe324e9f9ad687eb5e582",
       "roles_inferred_from_name": [
-        "paper_candidate"
+        "video_unverified_not_counted_as_exam_audio"
       ],
       "provenance": "user_provided_unverified_past_paper",
       "content_pairing": "not_yet_checked",
@@ -10724,7 +10724,7 @@
       "bytes": 10440443,
       "sha256": "8d8a81345956821e37aae59e2adf48fc0de97c6cc5e566b546cd2788e8668292",
       "roles_inferred_from_name": [
-        "paper_candidate"
+        "video_unverified_not_counted_as_exam_audio"
       ],
       "provenance": "user_provided_unverified_past_paper",
       "content_pairing": "not_yet_checked",
@@ -12929,24 +12929,6 @@
     },
     {
       "level": "N4",
-      "session": "2010-2011-unspecified",
-      "file_count": 5,
-      "role_counts": {
-        "paper_candidate": 2,
-        "answer_or_explanation": 3
-      },
-      "paths": [
-        "materials/past_papers/raw/N4/2010-2011年N4/2010-2011年N4真题.pdf",
-        "materials/past_papers/raw/N4/2010-2011年N4/2010年N4/2010年.pdf",
-        "materials/past_papers/raw/N4/2010-2011年N4/2010年N4/2010年N4答案.txt",
-        "materials/past_papers/raw/N4/2010-2011年N4/2010年N4/答案1.png",
-        "materials/past_papers/raw/N4/2010-2011年N4/2010年N4/答案2.png"
-      ],
-      "ready_for_full_mock": false,
-      "status": "inventory_only_requires_question_level_QA"
-    },
-    {
-      "level": "N4",
       "session": "2025-12",
       "file_count": 3,
       "role_counts": {
@@ -12982,7 +12964,8 @@
       "file_count": 2,
       "role_counts": {
         "answer_or_explanation": 1,
-        "paper_candidate": 2
+        "paper_candidate": 1,
+        "video_unverified_not_counted_as_exam_audio": 1
       },
       "paths": [
         "materials/past_papers/raw/N4/2024年7月N4/2024年7月(暂无解析，后续更新)/2024年7月能力考N4真题+答案.pdf",
@@ -13053,6 +13036,21 @@
     },
     {
       "level": "N4",
+      "session": "2018-unspecified",
+      "file_count": 1,
+      "role_counts": {
+        "answer_or_explanation": 1,
+        "listening_script": 1,
+        "paper_candidate": 1
+      },
+      "paths": [
+        "materials/past_papers/raw/N4/2018年N4/2018年N4真题+答案+解析+听力原文.pdf"
+      ],
+      "ready_for_full_mock": false,
+      "status": "inventory_only_requires_question_level_QA"
+    },
+    {
+      "level": "N4",
       "session": "2017-07",
       "file_count": 1,
       "role_counts": {
@@ -13113,21 +13111,6 @@
     },
     {
       "level": "N4",
-      "session": "2018-unspecified",
-      "file_count": 1,
-      "role_counts": {
-        "answer_or_explanation": 1,
-        "listening_script": 1,
-        "paper_candidate": 1
-      },
-      "paths": [
-        "materials/past_papers/raw/N4/2018年N4/2018年N4真题+答案+解析+听力原文.pdf"
-      ],
-      "ready_for_full_mock": false,
-      "status": "inventory_only_requires_question_level_QA"
-    },
-    {
-      "level": "N4",
       "session": "2012-unspecified",
       "file_count": 4,
       "role_counts": {
@@ -13141,6 +13124,24 @@
         "materials/past_papers/raw/N4/2012年N4/N4听力原文.pdf",
         "materials/past_papers/raw/N4/2012年N4/N4答案.pdf",
         "materials/past_papers/raw/N4/2012年N4/N4答题卡.pdf"
+      ],
+      "ready_for_full_mock": false,
+      "status": "inventory_only_requires_question_level_QA"
+    },
+    {
+      "level": "N4",
+      "session": "2010-2011-unspecified",
+      "file_count": 5,
+      "role_counts": {
+        "paper_candidate": 2,
+        "answer_or_explanation": 3
+      },
+      "paths": [
+        "materials/past_papers/raw/N4/2010-2011年N4/2010-2011年N4真题.pdf",
+        "materials/past_papers/raw/N4/2010-2011年N4/2010年N4/2010年.pdf",
+        "materials/past_papers/raw/N4/2010-2011年N4/2010年N4/2010年N4答案.txt",
+        "materials/past_papers/raw/N4/2010-2011年N4/2010年N4/答案1.png",
+        "materials/past_papers/raw/N4/2010-2011年N4/2010年N4/答案2.png"
       ],
       "ready_for_full_mock": false,
       "status": "inventory_only_requires_question_level_QA"
@@ -13193,21 +13194,6 @@
     },
     {
       "level": "N5",
-      "session": "2010-2011-unspecified",
-      "file_count": 1,
-      "role_counts": {
-        "answer_or_explanation": 1,
-        "listening_script": 1,
-        "paper_candidate": 1
-      },
-      "paths": [
-        "materials/past_papers/raw/N5/2010-2011年N5/2010-2011年N5真题+答案+解析+听力原文.pdf"
-      ],
-      "ready_for_full_mock": false,
-      "status": "inventory_only_requires_question_level_QA"
-    },
-    {
-      "level": "N5",
       "session": "2025-12",
       "file_count": 3,
       "role_counts": {
@@ -13243,7 +13229,8 @@
       "file_count": 2,
       "role_counts": {
         "answer_or_explanation": 1,
-        "paper_candidate": 2
+        "paper_candidate": 1,
+        "video_unverified_not_counted_as_exam_audio": 1
       },
       "paths": [
         "materials/past_papers/raw/N5/2024年7月N5/2024年7月能力考N5真题+答案.pdf",
@@ -13300,6 +13287,21 @@
     },
     {
       "level": "N5",
+      "session": "2018-unspecified",
+      "file_count": 1,
+      "role_counts": {
+        "answer_or_explanation": 1,
+        "listening_script": 1,
+        "paper_candidate": 1
+      },
+      "paths": [
+        "materials/past_papers/raw/N5/2018年N5/2018年N5真题+答案+解析+听力原文.pdf"
+      ],
+      "ready_for_full_mock": false,
+      "status": "inventory_only_requires_question_level_QA"
+    },
+    {
+      "level": "N5",
       "session": "2017-07",
       "file_count": 2,
       "role_counts": {
@@ -13309,6 +13311,21 @@
       "paths": [
         "materials/past_papers/raw/N5/2017年07月N5/2017年7月N5真题.pdf",
         "materials/past_papers/raw/N5/2017年07月N5(1)/2017.07N5答案.pdf"
+      ],
+      "ready_for_full_mock": false,
+      "status": "inventory_only_requires_question_level_QA"
+    },
+    {
+      "level": "N5",
+      "session": "2016-unspecified",
+      "file_count": 2,
+      "role_counts": {
+        "paper_candidate": 1,
+        "answer_or_explanation": 1
+      },
+      "paths": [
+        "materials/past_papers/raw/N5/2016年N5/2016年N5真题.pdf",
+        "materials/past_papers/raw/N5/2016年N5/2016年N5真题答案.png"
       ],
       "ready_for_full_mock": false,
       "status": "inventory_only_requires_question_level_QA"
@@ -13345,7 +13362,7 @@
     },
     {
       "level": "N5",
-      "session": "2018-unspecified",
+      "session": "2010-2011-unspecified",
       "file_count": 1,
       "role_counts": {
         "answer_or_explanation": 1,
@@ -13353,22 +13370,7 @@
         "paper_candidate": 1
       },
       "paths": [
-        "materials/past_papers/raw/N5/2018年N5/2018年N5真题+答案+解析+听力原文.pdf"
-      ],
-      "ready_for_full_mock": false,
-      "status": "inventory_only_requires_question_level_QA"
-    },
-    {
-      "level": "N5",
-      "session": "2016-unspecified",
-      "file_count": 2,
-      "role_counts": {
-        "paper_candidate": 1,
-        "answer_or_explanation": 1
-      },
-      "paths": [
-        "materials/past_papers/raw/N5/2016年N5/2016年N5真题.pdf",
-        "materials/past_papers/raw/N5/2016年N5/2016年N5真题答案.png"
+        "materials/past_papers/raw/N5/2010-2011年N5/2010-2011年N5真题+答案+解析+听力原文.pdf"
       ],
       "ready_for_full_mock": false,
       "status": "inventory_only_requires_question_level_QA"

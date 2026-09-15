@@ -1,5 +1,7 @@
 # 原创短听力
 
+> 2026-09-16：本目录是历史原创合成补练，不是当前唯一听力池。历年N2／N3音频已入materials/past_papers/raw，按路线v3先核配套后播放。63份MP3元数据与七份近年N2全解码不算学生听力；2026-07听力问题5第2题有文件配套冲突。
+
 ## 2026-09-13-01.wav
 
 - 原创教学文本，Windows System.Speech合成，Microsoft Haruka Desktop，Rate=-2，中慢速。
