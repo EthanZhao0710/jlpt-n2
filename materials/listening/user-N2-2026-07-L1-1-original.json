@@ -1,0 +1,22 @@
+{
+  "source": "materials/past_papers/raw/N2/2026/2026.07/2026年7月日语能力考N2-音频.mp3",
+  "source_sha256": "4ef83532522a1995707ca4ccf8a93b6fa995913772cf189127709e89079c88c8",
+  "start_seconds": 184,
+  "end_seconds": 261,
+  "clip": "materials/listening/user-N2-2026-07-L1-1-original.wav",
+  "speed": 1.0,
+  "verification": "Local faster-whisper base transcription timestamps cross-checked against paper p17 and transcript p18; not direct human listening; question, dialogue and repeated question match. Intro year ASR reads 2021, unverified, filename year not authenticated.",
+  "student_status": "Day 12 closed 2026-09-17: first original-speed guess 3, answer 2, option glosses supplied; full bilingual transcript exposed; whole-dialogue unaided replay understanding unconfirmed",
+  "segments": [
+    {
+      "clip": "user-N2-2026-07-L1-1-card.wav",
+      "start_seconds": 215.1,
+      "end_seconds": 222.7
+    },
+    {
+      "clip": "user-N2-2026-07-L1-1-meal-timing.wav",
+      "start_seconds": 230.7,
+      "end_seconds": 235.35
+    }
+  ]
+}
