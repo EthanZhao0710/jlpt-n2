@@ -1,6 +1,6 @@
 # JLPT N2 学习项目
 
-目标：2026-12-06 N2。当前路线为v3：最新N2驱动、搭台阶教学，词汇与真实听力每日保留。
+目标：2026-12-06 N2。当前路线为v4：核心主干快速覆盖，常规学习日推进4～6个实质核心小点，再真题／模拟主攻；词汇与真实听力每日保留。
 
 ## 每天开始
 
@@ -11,8 +11,10 @@
 - [AGENTS.md](AGENTS.md)：教学规则及最新授权。
 - [CURRENT_STATE.md](CURRENT_STATE.md)：当前状态唯一权威、准确恢复起点。
 - [REVIEW_QUEUE.md](REVIEW_QUEUE.md)：当前短复测队列。
-- [ROUTE_V3_2026-09-16.md](ROUTE_V3_2026-09-16.md)：最新N2优先、低级别桥接、听力、模拟保留与时间安排。
-- [JLPT_N2_MASTER.md](JLPT_N2_MASTER.md)：知识地图，按课题读取；历史安排以v3覆盖。
+- [ROUTE_V4_2026-09-20.md](ROUTE_V4_2026-09-20.md)：当前策略、每日配额、快速纠错与真题阶段。
+- [CORE_KNOWLEDGE_MAP.md](CORE_KNOWLEDGE_MAP.md)：核心主干图谱、固定教学单元、每日实际推进表。
+- [ROUTE_V3_2026-09-16.md](ROUTE_V3_2026-09-16.md)：历史路线，资料核验规则仍可参考。
+- [JLPT_N2_MASTER.md](JLPT_N2_MASTER.md)：知识地图，按课题读取；历史安排以v4覆盖。
 - [PROGRESS_METRICS.md](PROGRESS_METRICS.md)：固定权重、分母和计算证据。
 - [N2_PRACTICE_LOG.md](N2_PRACTICE_LOG.md)：分题型首次、带做、复习与迁移证据。
 - [N2_OFFICIAL_BLUEPRINT.md](N2_OFFICIAL_BLUEPRINT.md)：官方题型和计分边界。

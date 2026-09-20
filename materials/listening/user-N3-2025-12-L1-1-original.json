@@ -1,0 +1,22 @@
+{
+  "source": "materials/past_papers/raw/N3/2025/2025年12月/2025年12月日语N3真题听力.mp3",
+  "source_sha256": "80f63dfcad388c77afa0c6e288e08587e0a1dbf03557f899f1cc026b211f24f1",
+  "start_seconds": 104,
+  "end_seconds": 183,
+  "speed": 1.0,
+  "clip": "materials/listening/user-N3-2025-12-L1-1-original.wav",
+  "paper_page": 27,
+  "transcript_page": 1,
+  "answer_page": 1,
+  "answer": 2,
+  "verification": "PDF pages visually cross-checked; local faster-whisper base timestamps and content match dialogue and decisive time phrases. ASR misrecognizes 歯医者 as 会社 and several homophones; not claimed human listening or authenticated date. Includes 1番, initial question, full dialogue, repeated question; next item starts 197.56s.",
+  "student_status": "Day15 closed 2026-09-20: first choice 3, correct 2, original-speed 79s supplied with furigana options; full bilingual transcript and explanation exposed; original-speed decision replay followed by self-report 可以了. Playback count unknown, unaided whole-dialogue comprehension not verified; future replays are seen/text-assisted.",
+  "segments": [
+    {
+      "clip": "materials/listening/user-N3-2025-12-L1-1-decision.wav",
+      "start_seconds": 149.5,
+      "end_seconds": 175,
+      "speed": 1.0
+    }
+  ]
+}
