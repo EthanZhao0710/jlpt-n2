@@ -1,0 +1,52 @@
+mistakes/ACTIVE_MISTAKES.md
+  s_eaf9804e4e63f8::t_64dfaa606080fa 3-8
+CURRENT_STATE.md
+  s_eaf9804e4e63f8::t_64dfaa606080fa 5,7-13,23-27
+CORE_KNOWLEDGE_MAP.md
+  s_eaf9804e4e63f8::t_0eb6fe8e3d7408 21
+  s_eaf9804e4e63f8::t_64dfaa606080fa 3,57
+  s_eaf9804e4e63f8::t_cb756f410364e6 9
+  s_eaf9804e4e63f8::t_27bc53c19fddd9 22
+progress/2026-09-25.md
+  s_eaf9804e4e63f8::t_15470437abe5c9 7
+  s_eaf9804e4e63f8::t_00a45bc18a97e2 1-6
+  s_eaf9804e4e63f8::t_dde509dea6509c 8
+REVIEW_QUEUE.md
+  s_eaf9804e4e63f8::t_52eed967557bf9 9
+  s_eaf9804e4e63f8::t_cfabe1e5233f9f 10
+  s_eaf9804e4e63f8::t_64dfaa606080fa 3,11,16,20
+PROGRESS_METRICS.md
+  s_eaf9804e4e63f8::t_64dfaa606080fa 3
+  s_eaf9804e4e63f8::t_0eb6fe8e3d7408 5,106
+  s_eaf9804e4e63f8::t_27bc53c19fddd9 94
+  s_eaf9804e4e63f8::t_ca6474f72a9801 4
+progress/2026-09-26.md
+  s_eaf9804e4e63f8::t_8e8e180c9cfe45 9
+  s_eaf9804e4e63f8::t_0eb6fe8e3d7408 5
+  s_eaf9804e4e63f8::t_64dfaa606080fa 13-18
+  s_eaf9804e4e63f8::t_3194f24ac6f78a 7
+  s_eaf9804e4e63f8::t_4ea2423dc847f7 11
+  s_eaf9804e4e63f8::t_23b833064fc905 1-4
+  s_eaf9804e4e63f8::t_c7b30fd5140b4b 6
+  s_eaf9804e4e63f8::t_cfabe1e5233f9f 8
+  s_eaf9804e4e63f8::t_52eed967557bf9 12
+  s_eaf9804e4e63f8::t_27bc53c19fddd9 10
+materials/past_papers/EXPOSURE_LOG.md
+  s_eaf9804e4e63f8::t_4ea2423dc847f7 57-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a44edd092e5277b3356ec95661ecc893d379165a",
+  "prompts": {},
+  "sessions": {
+    "s_eaf9804e4e63f8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0d91b-2bf6-73c1-bec0-8fee74646c1c",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "zhaoyi13 <zhaoyi13@lenovo.com>"
+    }
+  }
+}
