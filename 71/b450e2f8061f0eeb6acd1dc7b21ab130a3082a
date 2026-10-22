@@ -1,0 +1,38 @@
+mistakes/ACTIVE_MISTAKES.md
+  s_cc760f1605ac59::t_becace143f4c2f 3-8
+PROGRESS_METRICS.md
+  s_cc760f1605ac59::t_becace143f4c2f 1-7
+CURRENT_STATE.md
+  s_cc760f1605ac59::t_becace143f4c2f 3-25
+N4_FOUNDATION_GAPS.md
+  s_cc760f1605ac59::t_becace143f4c2f 3
+REMAINING_CORE_2026-10-20.md
+  s_cc760f1605ac59::t_becace143f4c2f 1,5,7,13,21,37,43,47,61-63
+  s_cc760f1605ac59::t_6f440337373c7b 6
+START_PROMPT.md
+  s_cc760f1605ac59::t_becace143f4c2f 17
+CORE_KNOWLEDGE_MAP.md
+  s_cc760f1605ac59::t_becace143f4c2f 1,3,45,65
+REVIEW_QUEUE.md
+  s_cc760f1605ac59::t_becace143f4c2f 3,5,7-10,32
+ROUTE_V4_2026-09-20.md
+  s_cc760f1605ac59::t_becace143f4c2f 3
+progress/2026-10-22.md
+  s_cc760f1605ac59::t_becace143f4c2f 1-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "71b450e2f8061f0eeb6acd1dc7b21ab130a3082a",
+  "prompts": {},
+  "sessions": {
+    "s_cc760f1605ac59": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a16308-48b4-7540-a1aa-8f0cec9c96d3",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhaoyi13 <zhaoyi13@lenovo.com>"
+    }
+  }
+}
