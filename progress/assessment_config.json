@@ -1,0 +1,25 @@
+{
+  "model_version": "2.0-heuristic",
+  "as_of": "2026-10-25",
+  "checklist_path": "REMAINING_CORE_2026-10-20.md",
+  "fixed_total": 57,
+  "prior_beta": [
+    2,
+    2
+  ],
+  "half_life_days": 30,
+  "evidence_weights": {
+    "unseen_n2": 1.0,
+    "unseen_n2_with_gloss": 0.5,
+    "pre_taught_n2": 0.25,
+    "original_check": 0.1,
+    "correction_check": 0.05,
+    "guided_n2": 0.05
+  },
+  "simulation_draws": 100000,
+  "random_seed": 20261025,
+  "section_pass_mark": 19,
+  "overall_pass_mark": 90,
+  "calibrated": false,
+  "forecast_target": "current_level_only"
+}
