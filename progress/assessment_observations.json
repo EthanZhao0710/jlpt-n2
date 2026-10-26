@@ -216,5 +216,75 @@
     "source": "progress/2026-10-25.md",
     "note": "Original class check, not a past-paper or independent first attempt.",
     "target_level": "N2"
+  },
+  {
+    "id": "original-2026-10-26-R20-since-first",
+    "date": "2026-10-26",
+    "level": "original",
+    "section": "knowledge",
+    "correct": 0,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-10-26.md",
+    "note": "Pre-taught annotated combination check. Original response 2; correct 3. No post-correction response or independent N2 evidence.",
+    "target_level": "N2"
+  },
+  {
+    "id": "original-2026-10-26-R21-keys",
+    "date": "2026-10-26",
+    "level": "original",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-10-26.md",
+    "note": "Pre-taught annotated action check. Response 4 correct. No timing or independent N2 evidence.",
+    "target_level": "N2"
+  },
+  {
+    "id": "user-N2-2025-07-G31",
+    "date": "2026-10-26",
+    "level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "pre_taught_n2",
+    "source": "N2_PRACTICE_LOG.md",
+    "note": "Pre-taught annotated class application; response 2 correct, no timing or independent evidence."
+  },
+  {
+    "id": "user-N2-2025-07-G35",
+    "date": "2026-10-26",
+    "level": "N2",
+    "section": "knowledge",
+    "correct": 0,
+    "total": 1,
+    "kind": "pre_taught_n2",
+    "source": "N2_PRACTICE_LOG.md",
+    "note": "Pre-taught annotated class application; original response 4 incorrect, reference 3. No post-correction response, timing or independent evidence."
+  },
+  {
+    "id": "original-2026-10-26-R23-direction",
+    "date": "2026-10-26",
+    "level": "original",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-10-26.md",
+    "target_level": "N2",
+    "note": "Response 1 correct after initial teaching and simplified arrow comparison; annotated original check, not G35 correction or independent evidence."
+  },
+  {
+    "id": "original-2026-10-26-R24-linked",
+    "date": "2026-10-26",
+    "level": "original",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "correction_check",
+    "source": "progress/2026-10-26.md",
+    "target_level": "N2",
+    "note": "User clarified intended answer 3 was mistyped as 4, after teacher disclosed key. Class result corrected to intended correct answer; no knowledge error. Single low-weight self-reported clarification, not independent evidence or an additional attempt."
   }
 ]
