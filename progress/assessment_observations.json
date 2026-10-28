@@ -286,5 +286,17 @@
     "source": "progress/2026-10-26.md",
     "target_level": "N2",
     "note": "User clarified intended answer 3 was mistyped as 4, after teacher disclosed key. Class result corrected to intended correct answer; no knowledge error. Single low-weight self-reported clarification, not independent evidence or an additional attempt."
+  },
+  {
+    "id": "original-2026-10-28-R25-trend",
+    "date": "2026-10-28",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-10-28.md",
+    "note": "D31-R25-01 response 1 correct; pre-taught, annotated class check, untimed. Not independent N2 or spaced evidence. R26 unanswered and excluded."
   }
 ]

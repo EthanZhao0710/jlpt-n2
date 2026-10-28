@@ -1,35 +1,35 @@
 {
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-28",
   "model_version": "2.0-heuristic",
   "learning_progress": {
-    "completed": 24,
+    "completed": 25,
     "total": 57,
-    "remaining": 33,
-    "percent": 42.1,
+    "remaining": 32,
+    "percent": 43.9,
     "stage": "core_learning"
   },
   "pass_estimate": {
     "percent_display": 35,
-    "model_probability": 0.33423,
+    "model_probability": 0.34352,
     "meaning": "Current-level heuristic, not an exam-day forecast or calibrated probability",
     "confidence": "low",
     "effective_observations": {
-      "knowledge": 2.9509,
-      "reading": 0.2395,
-      "listening": 0.2031
+      "knowledge": 2.9176,
+      "reading": 0.2287,
+      "listening": 0.1939
     },
     "posterior_beta": {
       "knowledge": [
-        3.401649618728004,
-        3.549221176093556
+        3.4383533700666704,
+        3.4792608325931527
       ],
       "reading": [
-        2.0198425131496025,
-        2.2196918105197962
+        2.01894645708138,
+        2.2097708807227057
       ],
       "listening": [
         2.0,
-        2.203063099089059
+        2.1938930952292166
       ]
     },
     "official_scaled_score_conversion": false,
