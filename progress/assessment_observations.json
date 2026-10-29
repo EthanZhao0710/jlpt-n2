@@ -333,5 +333,17 @@
     "kind": "original_check",
     "source": "progress/2026-10-27.md",
     "note": "Pre-taught annotated combination: response 2 correct for toshite / ni okeru. No timing, independent-first or spaced evidence. User ended the lesson with this response."
+  },
+  {
+    "id": "original-2026-10-28-R25-trend",
+    "date": "2026-10-28",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-10-28.md",
+    "note": "D31-R25-01 response 1 correct; pre-taught, annotated class check, untimed. Not independent N2 or spaced evidence. R26 unanswered and excluded."
   }
 ]
