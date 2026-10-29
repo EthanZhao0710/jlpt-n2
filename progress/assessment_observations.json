@@ -345,5 +345,52 @@
     "kind": "original_check",
     "source": "progress/2026-10-28.md",
     "note": "D31-R25-01 response 1 correct; pre-taught, annotated class check, untimed. Not independent N2 or spaced evidence. R26 unanswered and excluded."
+  },
+  {
+    "id": "original-2026-10-29-R29-means",
+    "date": "2026-10-29",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-10-29.md",
+    "note": "D32-R29-01 response 2 correct; pre-taught annotated untimed check of cause and variation. Other meanings not individually verified."
+  },
+  {
+    "id": "original-2026-10-29-R30-basis",
+    "date": "2026-10-29",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-10-29.md",
+    "note": "D32-R30-01 response 3 correct; pre-taught annotated untimed meaning check. Not independent or spaced evidence."
+  },
+  {
+    "id": "original-2026-10-29-R31-channel",
+    "date": "2026-10-29",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-10-29.md",
+    "note": "D32-R31-01 response 4 correct; pre-taught annotated untimed channel selection. Not independent or spaced evidence."
+  },
+  {
+    "id": "user-N2-2026-07-G35",
+    "date": "2026-10-30",
+    "level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "pre_taught_n2",
+    "source": "progress/2026-10-30.md",
+    "note": "Response 4 correct after R32 teaching, readings and glosses; all options explained on request. Untimed, prior exposure unknown, not independent or spaced evidence."
   }
 ]
