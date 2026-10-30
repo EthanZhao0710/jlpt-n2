@@ -392,5 +392,53 @@
     "kind": "pre_taught_n2",
     "source": "progress/2026-10-30.md",
     "note": "Response 4 correct after R32 teaching, readings and glosses; all options explained on request. Untimed, prior exposure unknown, not independent or spaced evidence."
+  },
+  {
+    "id": "original-2026-10-30-R33-quote",
+    "date": "2026-10-30",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-10-30.md",
+    "note": "D33-R33-quote response 1 correct. Pre-taught annotated combination: to quotes speech, to iu introduces content before hanashi. No timing, independent N2 first or spaced evidence; to omou not separately checked."
+  },
+  {
+    "id": "original-2026-10-30-R34-content",
+    "date": "2026-10-30",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "correction_check",
+    "source": "progress/2026-10-30.md",
+    "note": "D33-R34-content initially typed 2; after answer disclosure user explicitly clarified intended response 3 and a key-entry error. Class records intended answer as correct, removes knowledge-error attribution. Same observation only; correction_check weight 0.05 follows existing R24 precedent, no independent, post-correction-transfer or spaced evidence. Clarification concerns R34 only."
+  },
+  {
+    "id": "original-2026-10-30-R35-rephrase",
+    "date": "2026-10-30",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-10-30.md",
+    "note": "D33-R35-rephrase response 4 correct: to iu yori gives a more accurate description, to itte mo limits the extent of an admitted description. Pre-taught readings/glosses; untimed, no independent N2 or spaced evidence."
+  },
+  {
+    "id": "original-2026-10-30-R36-emphasis",
+    "date": "2026-10-30",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 0,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-10-30.md",
+    "note": "D33-R36-emphasis response 3 incorrect, key 2. First slot kotoshi koso expresses determination; kotoshi made does not fit. Second selected kodomo ni sae tokeru is grammatical with ni marking the person able to solve, and is NOT an error; de sae also works. Pre-taught annotations, untimed, no post-correction response. User ended lesson."
   }
 ]
