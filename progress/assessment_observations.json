@@ -440,5 +440,87 @@
     "kind": "original_check",
     "source": "progress/2026-10-30.md",
     "note": "D33-R36-emphasis response 3 incorrect, key 2. First slot kotoshi koso expresses determination; kotoshi made does not fit. Second selected kodomo ni sae tokeru is grammatical with ni marking the person able to solve, and is NOT an error; de sae also works. Pre-taught annotations, untimed, no post-correction response. User ended lesson."
+  },
+  {
+    "id": "original-2026-11-01-R37-action",
+    "date": "2026-11-01",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-11-01.md",
+    "note": "D34-R37-action response 3 correct: te koso prerequisite and te made cost. Pre-taught readings/glosses, untimed; no independent N2 or spaced evidence."
+  },
+  {
+    "id": "user-N2-2025-07-G39",
+    "date": "2026-11-01",
+    "level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "pre_taught_n2",
+    "source": "progress/2026-11-01.md",
+    "note": "R38 pre-taught annotated G39 response 4 correct, kurai datta expresses actual degree of cold. Untimed, prior exposure unknown, not independent or spaced evidence; hodo negative comparison not separately checked."
+  },
+  {
+    "id": "original-2026-11-01-R39-degree",
+    "date": "2026-11-01",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-11-01.md",
+    "note": "D34-R39-degree response 2 correct: the less experience, the more preparation time is needed. Pre-taught annotated, untimed, no independent N2 or spaced evidence."
+  },
+  {
+    "id": "user-N2-2026-07-G32",
+    "date": "2026-11-01",
+    "level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "pre_taught_n2",
+    "source": "progress/2026-11-01.md",
+    "note": "R40 G32 response 4 correct, amari ni mo emphasizes resemblance causing photo misidentification. Pre-taught readings/glosses, untimed, prior exposure unknown; not independent or spaced evidence. Causal amari not separately checked."
+  },
+  {
+    "id": "original-2026-11-01-R41-exchange",
+    "date": "2026-11-01",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-11-01.md",
+    "note": "D34-R41-exchange response 1 correct: working on holidays in exchange for leave on weekdays. Pre-taught annotated, untimed, no independent N2 or spaced evidence; ippou, hanmen and replacement not separately checked."
+  },
+  {
+    "id": "original-2026-11-01-R42-compare",
+    "date": "2026-11-01",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-11-01.md",
+    "note": "D34-R42-compare response 3 correct: izen ni kurabete comparison and hataraite iru no ni taishite contrast of work locations. Pre-taught annotated, untimed; not independent N2 or spaced evidence."
+  },
+  {
+    "id": "original-2026-11-01-R43-span",
+    "date": "2026-11-01",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-11-01.md",
+    "note": "D34-R43-span response 2 correct: ni watatte modifies the action, ni wataru modifies chousa. Pre-taught readings/glosses, untimed, no independent N2 or spaced evidence; wo tsuujite range not separately checked. User ended lesson and requested sync."
   }
 ]
