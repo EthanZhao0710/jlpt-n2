@@ -545,5 +545,29 @@
     "kind": "pre_taught_n2",
     "source": "progress/2026-11-02.md",
     "note": "R45 G37 response 2 correct, natta dake de naku: swimming improved physical and mental strength. Pre-taught readings/glosses, untimed, prior exposure unknown; not independent N2 or spaced evidence. Nomi narazu and bakarika not separately checked. User ended lesson."
+  },
+  {
+    "id": "original-2026-11-02-R46-addition",
+    "date": "2026-11-02",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-11-02.md",
+    "note": "Sono ue adds high pay and many holidays; ni kuwaete and sarani not separately tested. Pre-taught readings/glosses, untimed; not independent N2 or spaced evidence."
+  },
+  {
+    "id": "original-2026-11-02-R47-evaluation",
+    "date": "2026-11-02",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-11-02.md",
+    "note": "Response 2: room spacious relative to rent; ni shite wa not separately tested. Pre-taught readings/glosses, untimed; not independent N2 or spaced evidence."
   }
 ]

@@ -2,25 +2,25 @@
   "as_of": "2026-11-02",
   "model_version": "2.0-heuristic",
   "learning_progress": {
-    "completed": 45,
+    "completed": 47,
     "total": 57,
-    "remaining": 12,
-    "percent": 78.9,
+    "remaining": 10,
+    "percent": 82.5,
     "stage": "core_learning"
   },
   "pass_estimate": {
     "percent_display": 45,
-    "model_probability": 0.44842,
+    "model_probability": 0.45343,
     "meaning": "Current-level heuristic, not an exam-day forecast or calibrated probability",
     "confidence": "low",
     "effective_observations": {
-      "knowledge": 5.2386,
+      "knowledge": 5.4386,
       "reading": 0.2038,
       "listening": 0.1727
     },
     "posterior_beta": {
       "knowledge": [
-        5.653313081548993,
+        5.853313081548992,
         3.5852849913653566
       ],
       "reading": [
