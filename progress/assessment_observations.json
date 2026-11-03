@@ -569,5 +569,53 @@
     "kind": "original_check",
     "source": "progress/2026-11-02.md",
     "note": "Response 2: room spacious relative to rent; ni shite wa not separately tested. Pre-taught readings/glosses, untimed; not independent N2 or spaced evidence."
+  },
+  {
+    "id": "original-2026-11-03-R48-evaluation",
+    "date": "2026-11-03",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-11-03.md",
+    "note": "Response 2 correct: long residence supports knowledge of customs. Pre-taught readings/glosses, untimed; not independent N2 or spaced evidence. Dake no koto wa aru not separately tested."
+  },
+  {
+    "id": "original-2026-11-03-R49-conclusion",
+    "date": "2026-11-03",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-11-03.md",
+    "note": "Response 3 correct: deadline passed implies applications no longer accepted. Pre-taught annotated, untimed, not independent N2 or spaced evidence. Ni hoka naranai and hearsay not separately tested."
+  },
+  {
+    "id": "original-2026-11-03-R50-unavoidable",
+    "date": "2026-11-03",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-11-03.md",
+    "note": "Response 4 correct: train stopped, no choice but taxi. Pre-taught readings/glosses, untimed; not independent N2 or spaced evidence."
+  },
+  {
+    "id": "original-2026-11-03-R51-impulse",
+    "date": "2026-11-03",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-11-03.md",
+    "note": "Response 1 correct: funny story caused involuntary laughter. Pre-taught readings/glosses, untimed; not independent N2 or spaced evidence. Nai de wa irarenai not separately tested. User ended lesson."
   }
 ]
