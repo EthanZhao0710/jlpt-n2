@@ -617,5 +617,77 @@
     "kind": "original_check",
     "source": "progress/2026-11-03.md",
     "note": "Response 1 correct: funny story caused involuntary laughter. Pre-taught readings/glosses, untimed; not independent N2 or spaced evidence. Nai de wa irarenai not separately tested. User ended lesson."
+  },
+  {
+    "id": "original-2026-11-04-R52-feeling",
+    "date": "2026-11-04",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-11-04.md",
+    "note": "Response 2 correct. Pre-taught readings/glosses, untimed; not independent N2 or spaced evidence."
+  },
+  {
+    "id": "original-2026-11-04-R53-risk",
+    "date": "2026-11-04",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-11-04.md",
+    "note": "Response 3 correct. Pre-taught readings/glosses, untimed; not independent N2 or spaced evidence."
+  },
+  {
+    "id": "original-2026-11-04-R54-difficulty",
+    "date": "2026-11-04",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-11-04.md",
+    "note": "Response 4 correct. Pre-taught readings/glosses, untimed; not independent N2 or spaced evidence."
+  },
+  {
+    "id": "original-2026-11-04-R55-completion",
+    "date": "2026-11-04",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-11-04.md",
+    "note": "Response 2 correct. Pre-taught readings/glosses, untimed; not independent N2 or spaced evidence."
+  },
+  {
+    "id": "original-2026-11-04-R56-state-a",
+    "date": "2026-11-04",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-11-04.md",
+    "note": "Response 4 correct. Pre-taught readings/glosses, untimed; not independent N2 or spaced evidence."
+  },
+  {
+    "id": "original-2026-11-04-R56-state-b",
+    "date": "2026-11-04",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-11-04.md",
+    "note": "Response 2 correct. Pre-taught readings/glosses, untimed; not independent N2 or spaced evidence."
   }
 ]
