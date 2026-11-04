@@ -689,5 +689,17 @@
     "kind": "original_check",
     "source": "progress/2026-11-04.md",
     "note": "Response 2 correct. Pre-taught readings/glosses, untimed; not independent N2 or spaced evidence."
+  },
+  {
+    "id": "original-2026-11-04-R57-tendency",
+    "date": "2026-11-04",
+    "level": "original",
+    "target_level": "N2",
+    "section": "knowledge",
+    "correct": 1,
+    "total": 1,
+    "kind": "original_check",
+    "source": "progress/2026-11-04.md",
+    "note": "Response 1 correct: tsukare-gimi means slightly tired. Pre-taught readings/glosses, untimed; not independent N2 or spaced evidence. Gachi and ppoi not separately tested."
   }
 ]
