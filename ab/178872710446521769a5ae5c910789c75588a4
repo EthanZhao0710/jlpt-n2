@@ -1,0 +1,45 @@
+PROGRESS_MODEL.md
+  s_80fd9dbb0ea257::t_f54365b291a707 3-8
+CORE_KNOWLEDGE_MAP.md
+  s_80fd9dbb0ea257::t_f54365b291a707 1,3,45,139-140
+progress/latest_metrics.json
+  s_80fd9dbb0ea257::t_68f77198b11919 2,5,7-8,12-13,17-19,23-24,27-28,32
+progress/assessment_config.json
+  s_80fd9dbb0ea257::t_68f77198b11919 3
+REMAINING_CORE_2026-10-20.md
+  s_80fd9dbb0ea257::t_2b390bdb5d895e 183,187
+  s_80fd9dbb0ea257::t_68f77198b11919 193-194
+  s_80fd9dbb0ea257::t_f54365b291a707 1,3,7,12
+  s_80fd9dbb0ea257::t_8ee6410649a751 179
+CURRENT_STATE.md
+  s_80fd9dbb0ea257::t_486e264e98fee0 42
+  s_80fd9dbb0ea257::t_f54365b291a707 3,5,7-9,11,13-17,19,21-23,27
+progress/2026-11-04.md
+  s_80fd9dbb0ea257::t_f54365b291a707 1-8
+  s_80fd9dbb0ea257::t_486e264e98fee0 9-15
+  s_80fd9dbb0ea257::t_2b390bdb5d895e 22-33
+  s_80fd9dbb0ea257::t_8ee6410649a751 16-21
+  s_80fd9dbb0ea257::t_00537a37952e23 34-47
+progress/assessment_observations.json
+  s_80fd9dbb0ea257::t_68f77198b11919 620-691
+mistakes/ACTIVE_MISTAKES.md
+  s_80fd9dbb0ea257::t_f54365b291a707 3-4
+REVIEW_QUEUE.md
+  s_80fd9dbb0ea257::t_f54365b291a707 3,7-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ab178872710446521769a5ae5c910789c75588a4",
+  "prompts": {},
+  "sessions": {
+    "s_80fd9dbb0ea257": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a40b-0a97-75b1-ac7a-32279696fb8d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhaoyi13 <zhaoyi13@lenovo.com>"
+    }
+  }
+}
